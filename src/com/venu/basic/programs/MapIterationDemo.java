@@ -13,6 +13,8 @@ public class MapIterationDemo {
 
 		for (Map.Entry<String, String> e : smp.entrySet()) {
 			System.out.println("Key: " + e.getKey() + " Vlaue:" + e.getValue());
+
+
 		}
 		System.out.println();
 
